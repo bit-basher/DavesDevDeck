@@ -24,11 +24,11 @@ export const slides: Slide[] = [
   {
     id: "intro",
     type: "title",
-    title: "Intro",
-    heading: "Bob 101",
-    subtitle: "Everything you ever wanted to know about my old mate Bob...but fast",
-    author: "Nicholas Renotte",
-    date: "May 21, 2026",
+    title: "Introduction",
+    heading: "An IBM BobPaper on Agentic AI for Australia Post",
+    subtitle: "Just like a whitepaper, but a little different...",
+    author: "David Nemirovsky",
+    date: "June 05, 2026",
   },
   {
     id: "bio",
