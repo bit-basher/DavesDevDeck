@@ -1,4 +1,4 @@
-# DavesDevDeck - the slickest deck round town (apprently!) 
+# DavesDevDeck - the slickest deck round town (apparently!) 
 This is Nick Renotte's deck that he use for a bunch of presos. He originally built this using Lovable and then tweaked it a ton to get it to do what he wanted.
 
 Now it's Captain Nemo's turn to see if he can tweak this for his own usage! 
